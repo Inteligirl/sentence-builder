@@ -1,0 +1,9 @@
+C:\Users\tempest\Desktop\c#\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\tempest\Desktop\c#\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\tempest\Desktop\c#\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\tempest\Desktop\c#\Project2\Project2\obj\Debug\Project2.csprojResolveAssemblyReference.cache
+C:\Users\tempest\Desktop\c#\Project2\Project2\obj\Debug\Project2.project2.resources
+C:\Users\tempest\Desktop\c#\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+C:\Users\tempest\Desktop\c#\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.Cache
+C:\Users\tempest\Desktop\c#\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\tempest\Desktop\c#\Project2\Project2\obj\Debug\Project2.pdb
