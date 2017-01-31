@@ -7,3 +7,5 @@ On page 196 in your textbook, the form in Figure 3-47 contains buttons showing v
 ## My thoughts
 
 This was my second required project. The idea here was to not just change the contents of the label text box but to have the label text box hold previous input while continuing to add new information. This assignment comes at the end of a chapter where I'm beginning to learn about variables, scope, methods, functions and classes. Not entirely new concepts for me as I began to do Object Oriented Programs at the end of my C++ class last semester. So far I'm really enjoying the Visual Studio environment and it is pretty nice to be working outside of the command prompt.
+
+![alt text](https://github.com/Inteligirl/sentence-builder/blob/master/sentence.png "Build a sentence")
